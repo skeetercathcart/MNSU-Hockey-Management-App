@@ -177,7 +177,11 @@
 /******/ 		__webpack_require__.f.require = (chunkId, promises) => {
 /******/ 			// "1" is the signal for "already loaded"
 /******/ 			if(!installedChunks[chunkId]) {
+<<<<<<< HEAD
 /******/ 				if("app/(root)/(routes)/page" == chunkId) {
+=======
+/******/ 				if("app/(root)/(routes)/(admin)/Admin_Dashboard/page" == chunkId) {
+>>>>>>> 54ef2cdf57493d5c1dda16efb5a36307d624eafb
 /******/ 					installChunk(require("./" + __webpack_require__.u(chunkId)));
 /******/ 				} else installedChunks[chunkId] = 1;
 /******/ 			}

@@ -1,8 +1,11 @@
 import Link from 'next/link';
+import Sidebar from './Sideboard';
+import './App.css';
 
 const Home = () => {
   return (
     <div className=''>
+      <Sidebar pageWrapId={'page-wrap'} outerContainerId={'outer-container'} />
       <h1>Hockey Team Management</h1>
       <ul>
         <li>

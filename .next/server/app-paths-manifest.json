@@ -1,3 +1,7 @@
 {
+<<<<<<< HEAD
   "/(root)/(routes)/page": "app/(root)/(routes)/page.js"
+=======
+  "/(root)/(routes)/(admin)/Admin_Dashboard/page": "app/(root)/(routes)/(admin)/Admin_Dashboard/page.js"
+>>>>>>> 54ef2cdf57493d5c1dda16efb5a36307d624eafb
 }

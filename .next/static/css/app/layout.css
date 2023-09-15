@@ -573,9 +573,14 @@ video {
 }
 
 body {
+<<<<<<< HEAD
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
       to bottom,
+=======
+  background: linear-gradient(
+      to right,
+>>>>>>> 54ef2cdf57493d5c1dda16efb5a36307d624eafb
       transparent,
       rgb(var(--background-end-rgb))
     )

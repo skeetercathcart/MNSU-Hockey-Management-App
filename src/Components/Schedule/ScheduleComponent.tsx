@@ -7,6 +7,7 @@ const CalendarPage: React.FC = () => {
     <div>
       <h2>Calendar and Scheduler</h2>
       <Calendar />
+      <h2>Ooga Booga</h2>
     </div>
   );
 };

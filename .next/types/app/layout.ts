@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // File: C:\Users\bonkl\Desktop\HockeyApp\MNSU-Hockey-Management-App\src\app\layout.tsx
+=======
+// File: C:\Users\Skeeter\Desktop\F23Project\MNSU-Hockey-Management-App\src\app\layout.tsx
+>>>>>>> 54ef2cdf57493d5c1dda16efb5a36307d624eafb
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
